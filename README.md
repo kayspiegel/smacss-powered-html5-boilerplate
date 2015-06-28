@@ -2,7 +2,7 @@
 
 SMACSS powered HTML5 Boilerplate (SpH5B) is a boilerplate for front end developers. It’s based on [HTML5 Boilperplate](https://html5boilerplate.com) and refactored to work in [Jade](http://jade-lang.com) and [Sass](http://sass-lang.com) with some [SMACSS](http://smacss.com).
 
-![SpH5B](_site_/tile-wide.png)
+![SpH5B](_site/tile-wide.png)
 
 ## Why now this?
 

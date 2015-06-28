@@ -1,0 +1,44 @@
+// HTML5Boilerplate 404 Page Styles
+//
+// I added a BEM styled class to the error page’s body. Therefor changed the CSS structure
+// regarding the html and body tag. Also added vh and vw to the body.
+//
+// =========================================================
+
+.page-error
+  height: 100%
+  height: 100vh
+  width: 100%
+  width: 100vw
+  display: table
+  font-family: sans-serif
+  color: #888
+  text-align: center
+
+  *
+    line-height: 1.2
+    margin: 0
+
+  div
+    display: table-cell
+    vertical-align: middle
+    @include margin(2em auto)
+
+  h1
+    font:
+      size: 2em
+      weight: 400
+    color: #555
+
+  p
+    @include margin(0 auto)
+    width: 280px
+
+  @media only screen and (max-width: 280px)
+
+    body, p
+      width: 95%
+
+    h1
+      @include margin(0 0 .3em)
+      font-size: 1.5em

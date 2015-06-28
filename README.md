@@ -2,6 +2,8 @@
 
 SMACSS powered HTML5 Boilerplate (SpH5B) is a boilerplate for front end developers. It’s based on [HTML5 Boilperplate](https://html5boilerplate.com) and refactored to work in [Jade](http://jade-lang.com) and [Sass](http://sass-lang.com) with some [SMACSS](http://smacss.com).
 
+![SpH5B](_site_/tile-wide.png)
+
 ## Why now this?
 
 I use the HTML5 Boilerplate for nearly every front end project as a quick and simple starting point. Adding the SMACSS (BEM will follow in v1.1) methodology to my own front end mojo and to this personalised boilerplate, I started a while ago, truly boosted my development. Timewise and codewise. If this boilerplate is as helpful to you as it is to me … [Hooray](http://media.giphy.com/media/ns8FcEX37Ha5G/giphy.gif) :-)

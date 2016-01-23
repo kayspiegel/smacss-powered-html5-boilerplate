@@ -67,7 +67,7 @@ SpH5B is based on and includes the resources listed below. Version numbers indic
 ### Code
 
 - [Bourbon v4.2.2](http://bourbon.io): a lightweight mixin library for your Sass
-- [HTML5 Boilperplate v5.2.0](https://html5boilerplate.com): the core as you might have guessed
+- [HTML5 Boilperplate v5.3.0](https://html5boilerplate.com): the core as you might have guessed
 - [jQuery v1.11.3](https://jquery.org/): everybody knows jQuery, right?
 - [Modernizr v2.8.3](http://modernizr.com): detect HTML5 and CSS3 features and style them
 - [Normalize.css v3.0.2](http://necolas.github.io/normalize.css/): HTML5-ready CSS reset
@@ -81,7 +81,12 @@ SpH5B is based on and includes the resources listed below. Version numbers indic
 
 - [SMACSS](http://smacss.com) is a style guide based CSS library that helps you to structure your CSS files and folders in a logic, scalable and brilliant manner supporting your development, workflow and maintance. If you’re a front end coder you really have to get [Jonathan Snook’s](https://twitter.com/snookca) book. You will love it!
 
-## Version history
+## Changelog
+
+**Version 1.1** (23/01/16)
+
+- Implement updates from [HTML5 Boilperplate v5.3.0](https://html5boilerplate.com)
+- Add Print CSS to the repo
 
 **Version 1.0** (28/06/15)
 
